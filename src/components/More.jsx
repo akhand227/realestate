@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const More = () => {
     return (
-        <div>
+        <div id='more'>
             <section class="text-gray-600 body-font">
                 <div className='max-w-[1640px] m-auto px-4 py-12'>
                     <h1 className='text-purple-600 font-bold text-3xl text-center'>

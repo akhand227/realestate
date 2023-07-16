@@ -24,7 +24,7 @@ const Food = () => {
   };
 
   return (
-    <div className='max-w-[1640px] m-auto px-4 py-12'>
+    <div className='max-w-[1640px] m-auto px-4 py-12' id='food'>
       <h1 className='text-purple-600 font-bold text-4xl text-center'>
         Filter Search
       </h1>
